@@ -1,4 +1,13 @@
-# Allen's opinionated neovim config
+# !!!PROJECT SUNSET!!!!
+I'm reworking my nvim config from scratch (instead of based off of a distro) at https://github.com/YilunAllenChen/nvim
+
+Thank you AstroNvim for 15 awesome months! I'm really grateful to be able to work under its wings. Now that I'm more comfortable tinkering lua/nvim, I think it's time for me to bootstrap my nvim config from scratch.
+
+I will no longer commit to this repo.
+
+
+
+### Allen's opinionated neovim config
 
 A user configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
